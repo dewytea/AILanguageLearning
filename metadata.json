@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow AI",
+  "description": "An AI-powered English learning platform providing real-time corrections and personalized curriculum.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
